@@ -1,6 +1,7 @@
 {
     "name": "nwidart/taskmanagement",
     "type": "laravel-module",
+    "version": "1.0",
     "description": "",
     "authors": [
         {
